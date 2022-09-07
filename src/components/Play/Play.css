@@ -1,0 +1,32 @@
+.App{
+    width: 50%;
+    float: right;
+    text-align: center;
+  }
+
+.bodyParts {
+    width: 180px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 50px;
+    border-radius: 5px;
+    border-color: rgb(176, 248, 204);
+    background: rgb(105, 219, 160);
+    box-shadow: 0 -3px rgb(81, 170, 126) inset;
+}
+
+.bodyParts:hover {
+  background: rgb(65, 172, 118);
+}
+
+.secondBodyParts{
+  height: auto;
+  width: 90%;
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+h2{
+  margin-top: auto;
+}

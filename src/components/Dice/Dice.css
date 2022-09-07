@@ -1,0 +1,9 @@
+.canvas {
+    margin-left: 30%;
+    border-radius: 10px;
+}
+
+.graph3D {
+    width: 50%;
+    float: left;
+}

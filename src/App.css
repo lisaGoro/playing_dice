@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+}
+.Button{
+  float: left;
+  width: 51%;
+  margin-left: 85px;
+}
+.button {
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  background: rgb(82, 218, 147);
+  box-shadow: 0 -3px rgb(65, 172, 118) inset;
+  transition: 0.2s;
+  margin-left: 235px;
+  border-radius: 10px;
+  border-color: rgb(82, 218, 147);
+}
+
+.button:hover {
+  background: rgb(65, 172, 118);
+}
+
+.button:active {
+  background: rgb(33, 147, 90);
+  box-shadow: 0 3px rgb(33, 147, 90) inset;
+}
